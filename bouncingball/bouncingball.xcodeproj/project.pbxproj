@@ -207,6 +207,7 @@
 		D261D7EA1692CBF9005D5275 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D261D7E91692CBF9005D5275 /* AppDelegate.cpp */; };
 		D261D7ED1692CBF9005D5275 /* HelloWorldScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D261D7EC1692CBF9005D5275 /* HelloWorldScene.cpp */; };
 		D261D7F61692CC79005D5275 /* Ball.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D261D7F41692CC79005D5275 /* Ball.cpp */; };
+		D261D7F81692D9C4005D5275 /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = D261D7F71692D9C4005D5275 /* ball.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -651,6 +652,7 @@
 		D261D7EC1692CBF9005D5275 /* HelloWorldScene.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = HelloWorldScene.cpp; path = Classes/HelloWorldScene.cpp; sourceTree = "<group>"; };
 		D261D7F41692CC79005D5275 /* Ball.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ball.cpp; path = Classes/Example/Ball.cpp; sourceTree = "<group>"; };
 		D261D7F51692CC79005D5275 /* Ball.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ball.h; path = Classes/Example/Ball.h; sourceTree = "<group>"; };
+		D261D7F71692D9C4005D5275 /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -720,6 +722,7 @@
 		D261D54C1692CBF4005D5275 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D261D7F71692D9C4005D5275 /* ball.png */,
 				D261D54D1692CBF4005D5275 /* CloseNormal.png */,
 				D261D54F1692CBF4005D5275 /* CloseSelected.png */,
 				D261D5511692CBF4005D5275 /* Default.png */,
@@ -1638,6 +1641,7 @@
 				D261D5601692CBF4005D5275 /* Icon@2x.png in Resources */,
 				D261D5621692CBF4005D5275 /* iTunesArtwork in Resources */,
 				D261D5F81692CBF5005D5275 /* ChangeLog in Resources */,
+				D261D7F81692D9C4005D5275 /* ball.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
