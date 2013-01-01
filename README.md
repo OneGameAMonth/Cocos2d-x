@@ -6,4 +6,5 @@ Cocos2d-x examples
 The first example is a bouncing ball. This is an example which runs on
 iPhone.
 
-The tutorial to accompany this example will be posted soon.
+The tutorial to accompany this example can be found here:
+http://smallgaming.tumblr.com/
