@@ -208,6 +208,7 @@
 		D261D7ED1692CBF9005D5275 /* HelloWorldScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D261D7EC1692CBF9005D5275 /* HelloWorldScene.cpp */; };
 		D261D7F61692CC79005D5275 /* Ball.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D261D7F41692CC79005D5275 /* Ball.cpp */; };
 		D261D8021692DCD7005D5275 /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = D261D8011692DCD7005D5275 /* ball.png */; };
+		D26DE18116F0B4DF00361E00 /* levels-test.json in Resources */ = {isa = PBXBuildFile; fileRef = D26DE17F16F0B4DF00361E00 /* levels-test.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -653,6 +654,7 @@
 		D261D7F41692CC79005D5275 /* Ball.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ball.cpp; path = Classes/Example/Ball.cpp; sourceTree = "<group>"; };
 		D261D7F51692CC79005D5275 /* Ball.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ball.h; path = Classes/Example/Ball.h; sourceTree = "<group>"; };
 		D261D8011692DCD7005D5275 /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
+		D26DE17F16F0B4DF00361E00 /* levels-test.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "levels-test.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -722,6 +724,7 @@
 		D261D54C1692CBF4005D5275 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D26DE17F16F0B4DF00361E00 /* levels-test.json */,
 				D261D8011692DCD7005D5275 /* ball.png */,
 				D261D54D1692CBF4005D5275 /* CloseNormal.png */,
 				D261D54F1692CBF4005D5275 /* CloseSelected.png */,
@@ -1642,6 +1645,7 @@
 				D261D5621692CBF4005D5275 /* iTunesArtwork in Resources */,
 				D261D5F81692CBF5005D5275 /* ChangeLog in Resources */,
 				D261D8021692DCD7005D5275 /* ball.png in Resources */,
+				D26DE18116F0B4DF00361E00 /* levels-test.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
