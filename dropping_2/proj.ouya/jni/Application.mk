@@ -1,0 +1,3 @@
+APP_STL := gnustl_static
+APP_USE_CPP0X := true
+APP_CPPFLAGS := -frtti -DCOCOS2D_DEBUG=1 -DOUYA_BUILD=1
